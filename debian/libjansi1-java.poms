@@ -1,0 +1,3 @@
+pom.xml --no-parent --has-package-version
+jansi/pom.xml --has-package-version --java-lib --usj-name=jansi1
+example/pom.xml --ignore
