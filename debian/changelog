@@ -1,3 +1,9 @@
+jansi1 (1.18-3deepin1) unstable; urgency=medium
+
+  * Use versioned JAR files and versionless symlinks. (#1060434)
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 11 Jan 2024 18:05:58 +0800
+
 jansi1 (1.18-3) unstable; urgency=medium
 
   * Standards-Version updated to 4.6.1
